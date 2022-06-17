@@ -30,9 +30,9 @@ Laboratories and projects from my university course Integrative Project: Network
   - Security.
   - File Systems.
 
-## System Built:
-A distributed vaccination registry system divided in 3 layers (subnetworks) interconnected by internal and external routers.
-
 ## Tools Used:
 - C / C++
 - Python
+
+## System Built:
+A distributed vaccination registry system divided in 3 layers (subnetworks) interconnected by internal and external routers.
